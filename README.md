@@ -10,7 +10,7 @@ Once you have Python 3 installed, you can download the program from the GitHub r
 To run the program, open a terminal or command prompt window and navigate to the directory where the program is saved. Then, enter the following command:
 
 ```py
-python arq_simulation.py
+python arq_sim.py
 ```
 This will start the program and display the main menu.
 
