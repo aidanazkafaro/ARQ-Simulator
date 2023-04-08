@@ -7,6 +7,8 @@ To use this program, you will need to have Python 3 installed on your computer. 
 Once you have Python 3 installed, you can download the program from the GitHub repository: [Github](https://github.com/aidanazkafaro/ARQ-Simulator)
 
 ## Running the Program
+You can run the program through cloud with relp.it in [this link](https://replit.com/@MelchiorNatthan/ARQ)
+
 To run the program, open a terminal or command prompt window and navigate to the directory where the program is saved. Then, enter the following command:
 
 ```py
