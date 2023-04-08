@@ -9,6 +9,8 @@ Once you have Python 3 installed, you can download the program from the GitHub r
 ## Running the Program
 You can run the program through cloud with relp.it in [this link](https://replit.com/@MelchiorNatthan/ARQ)
 
+or
+
 To run the program, open a terminal or command prompt window and navigate to the directory where the program is saved. Then, enter the following command:
 
 ```py
